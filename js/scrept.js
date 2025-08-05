@@ -60,18 +60,28 @@
 // console.log(plus(10,39))
 
 
-{
-    let a=10;
-    console.log("a")
-}
+// {
+//     let a=10;
+//     console.log("a")
+// }
 
-function jus(a =0,b=0,c=0){
-    return a+b+c
-}
-console.log(jus(10,20,30))
+// function jus(a =0,b=0,c=0){
+//     return a+b+c
+// }
+// console.log(jus(10,20,30))
 
 
-function apple(a,...b){
-   console.log(b)
-}
-apple(10,390,39,98,)
+// function apple(a,...b){
+//    console.log(b)
+// }
+// apple(10,390,39,98,)
+
+
+// let sum =0
+
+// function pen(...number){
+//     for (item of number){
+//         sum +=item
+//     } 
+// }
+// pen(40,60,70,13,25)
